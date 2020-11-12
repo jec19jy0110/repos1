@@ -1,2 +1,9 @@
 xrdxtrxytcdtrxr]@
 jbhhvygvcyg
+
+
+class Test{
+  public static void main(String[] args){
+    System.out.println("this program is a test");
+   }
+}
